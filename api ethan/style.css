@@ -1,0 +1,9 @@
+
+html {background-image: linear-gradient(to bottom right, skyblue, white);}
+
+*{font-family:Tahoma;}
+
+.pagecontainer{
+  max-width:5000px;
+  margin: 80px 200px 0px;
+}
